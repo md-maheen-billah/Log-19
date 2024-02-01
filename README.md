@@ -1,4 +1,4 @@
-# Log 19 (Duration: 6 Months)
+# Log 19 (Duration: 1/6 Months)
 Today's lesson focused on array traversal using For and While loop, reversing an array with/without reverse method and sorting arrays.
 
 ---
