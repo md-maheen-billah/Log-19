@@ -3,7 +3,6 @@ Today's lesson focused on array traversal using For and While loop, reversing an
 
 ---
 
-## Object
 ### Practice Task-1:
 Write a JavaScript code to reverse the array colors `without using the reverse method`.
 ```js
